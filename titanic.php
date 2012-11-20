@@ -1,6 +1,6 @@
 <?php
 
-$inputs = array(5, 12, 17);
+$inputs = array(5, 12, 17, 100);
 
 
 
